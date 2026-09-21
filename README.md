@@ -1,3 +1,9 @@
+# Como realizei o teste
+
+Para realizar o teste de forma satisfatória, pesquisei algumas ferramentas que pudessem simular uma conversa. Por questões de recursos pesquisei opções free e cheguei até o Google AI Studio. Nele, adicionei o código da tool como uma função a ser chamada e o prompt nas intruções de sistema da ferramenta.
+
+---
+
 # Teste - Engenheiro de Prompt
 
 ## O Contexto
