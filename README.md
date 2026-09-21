@@ -2,6 +2,10 @@
 
 Para realizar o teste de forma satisfatória, pesquisei algumas ferramentas que pudessem simular uma conversa. Por questões de recursos pesquisei opções free e cheguei até o Google AI Studio. Nele, adicionei o código da tool como uma função a ser chamada e o prompt nas intruções de sistema da ferramenta.
 
+# Prints dos testes
+
+Dentro da pasta prints-cenarios-testes, há o arquivo chamado LISTA DE TESTES, onde digo como organizei e printei os fluxos. Ao lado esquerdo print está a conversa e ao lado direito está o template.
+
 ---
 
 # Teste - Engenheiro de Prompt
