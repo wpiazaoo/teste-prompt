@@ -1,4 +1,4 @@
-**Refinamento pós-lançamento**
+# Refinamento pós-lançamento**
 Como você ajustaria o fluxo se, após lançar, descobrisse que 30% dos clientes abandonam na etapa de validação?
 
  - Se houverem ferramentas que monitoram esse fluxo, eu recorreria a elas para entender o que está acontecendo.
