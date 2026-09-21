@@ -1,5 +1,5 @@
-**Cenários de testes**
-Segue abaixo, em forma de prints, os cenários de testes que realizei. Eles estão nomeados e enumerados conforme a listagem abaixo
+# Cenários de testes
+Segue abaixo a lista dos cenários de testes que realizei correspondentes aos prints. Eles estão nomeados e enumerados conforme a listagem abaixo
  - 1 - Primeira interação e de Handlebars para identifação do cliente.
  - 2 - Caminho feliz e uso de Handlebars para identificar/alternar entre CPF e CNPJ. Observação: como os dados template assume isCPF: true, a Mia solicita o número de CPF.
  - 3 - Documento inválido
